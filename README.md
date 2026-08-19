@@ -2,15 +2,15 @@
 
 # Simple Actors and Deep Critics for Scalable Reinforcement Learning
 
-## [[website](https://YOUR-USERNAME.github.io/LAC)]      [[paper](https://doi.org/10.1145/3799682.3840726)]
+## [[website](https://9hyeon1225.github.io/LAC/)]      [[paper](https://doi.org/10.1145/3799682.3840726)]
 
 </div>
 
 <p align="center">
-  <a href="https://YOUR-USERNAME.github.io/LAC">
+  <a href="https://9hyeon1225.github.io/LAC/">
     <img alt="teaser figure" src="./assets/teaser.png" width="48%">
   </a>
-  <a href="https://YOUR-USERNAME.github.io/LAC">
+  <a href="https://9hyeon1225.github.io/LAC/">
     <img alt="aggregated results" src="./assets/agg.png" width="48%">
   </a>
 </p>
