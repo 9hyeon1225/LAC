@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Datasets
 
-We evaluate on [OGBench](https://github.com/seohongpark/ogbench), spanning long-horizon locomotion navigation (`antmaze`, `humanoidmaze`) and multi-step / combinatorial manipulation (`scene`, `puzzle`) — 7 environments and 40 tasks in total. Standard OGBench datasets are downloaded automatically on first use.
+We evaluate on [OGBench](https://github.com/seohongpark/ogbench), spanning long-horizon locomotion navigation (`antmaze`, `humanoidmaze`) and multi-step / combinatorial manipulation (`scene`, `puzzle`) — 7 environments and 35 tasks in total. Standard OGBench datasets are downloaded automatically on first use.
 
 To use a custom (or large) OGBench dataset stored locally, pass `--ogbench_dataset_dir=[realpath/to/your/dataset/]`; the dataset chunks (`*.npz`) are cycled every `--dataset_replace_interval` steps to fit in memory.
 
