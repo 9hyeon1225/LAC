@@ -10,9 +10,6 @@
   <a href="https://9hyeon1225.github.io/LAC/">
     <img alt="teaser figure" src="./assets/teaser.png" width="48%">
   </a>
-  <a href="https://9hyeon1225.github.io/LAC/">
-    <img alt="aggregated results" src="./assets/q.png" width="48%">
-  </a>
 </p>
 
 ## Overview
